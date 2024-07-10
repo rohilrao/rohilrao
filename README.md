@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile
 
-![Profile Image](https://github.com/rohilrao.png)
-
 ## About Me
 Hi, I'm **Rohil Rao**, a software developer specialized in machine learning and web development. Currently, I am pursuing my Master's in Computer Science at the University of Bonn, focusing on Intelligent Systems.
 
