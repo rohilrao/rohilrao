@@ -1,7 +1,7 @@
 <body>
     <div class="container">
         <h1>About Me</h1>
-        <p>Hi, I'm <strong>Rohil Rao</strong>, a Computer Science graduate from the University of Bonn with hands-on experience in advanced AI-driven projects, machine learning, and data science.</p>
+        <p>Hi, I'm <strong>Rohil Rao</strong>, a M.Sc. Computer Science graduate from the University of Bonn with hands-on experience in advanced AI-driven projects, machine learning, and data science.</p>
         <ul>
             <li>🤖 Researching systematic weaknesses in AI models, focusing on pedestrian detection.</li>
             <li>💡 Passionate about AI research, particularly in vision and text AI models.</li>
