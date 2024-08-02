@@ -5,7 +5,7 @@
         <ul>
             <li>🤖 Researching systematic weaknesses in AI models, focusing on pedestrian detection.</li>
             <li>💡 Passionate about AI research, particularly in vision and text AI models.</li>
-            <li>📊 Experienced in data analysis, KPI reporting, and dashboard creation.</li>
+            <li>📊 Experienced in data science, analysis, KPI reporting, and dashboard creation.</li>
             <li>🐍 I love implementing projects in Python and PyTorch and have worked on projects such as:
                 <ul>
                     <li>Improving domain shift in brain MRI segmentation using unsupervised adversarial training</li>
