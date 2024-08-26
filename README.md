@@ -11,6 +11,12 @@
                     <li>Improving domain shift in brain MRI segmentation using unsupervised adversarial training</li>
                     <li>Explainable fake news detection</li>
                     <li>Semi-supervised video frame prediction</li>
+
+    <li><a href="https://github.com/rohilrao/VideoFramePrediction">Video Frame Prediction</a> using Semi-Supervised UNet Generative Model</li>
+    <li><a href="https://github.com/rohilrao/BrainMRI_Segmentation_UDA">Improving domain shift</a> in brain MRI segmentation using unsupervised adversarial training</li>
+    <li><a href="https://github.com/rohilrao/IR-NLP-Fake-News">Explainable fake news detection</a></li>
+
+
                 </ul>
             </li>
         </ul>
