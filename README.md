@@ -1,10 +1,10 @@
 <body>
     <div class="container">
-        <h1>About Me</h1>
-        <p>Hi, I'm <strong>Rohil Rao</strong>, a M.Sc. Computer Science graduate from the University of Bonn with hands-on experience in advanced AI-driven projects, machine learning, and data science.</p>
+        <h3>About Rohil</h3>
+        <p>Hi, I'm an M.Sc. Computer Science graduate from the University of Bonn with hands-on experience in advanced AI-driven projects, machine learning, and data science.</p>
         <ul>
             <li>🤖 Researching systematic weaknesses in AI models, focusing on pedestrian detection.</li>
-            <li>💡 Passionate about AI research, particularly in vision and text AI models.</li>
+            <li>💡 Passionate about AI research, particularly in vision and language models.</li>
             <li>📊 Experienced in data science, analysis, KPI reporting, and dashboard creation.</li>
             <li>🐍 I love implementing projects in Python and PyTorch and have worked on projects such as:
                 <ul>
