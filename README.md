@@ -18,10 +18,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;At+GAIA+Lab;Working+on+cool+things;Open+source+🤗)](https://git.io/typing-svg)
   
-## About Me
-
-Hi, I'm an M.Sc. Computer Science graduate from the University of Bonn with hands-on experience in advanced AI-driven projects, machine learning, and data science.
-
 ## Featured Projects
 
 #### [Video Frame Prediction using Semi-Supervised UNet Generative Model](https://github.com/rohilrao/VideoFramePrediction)
