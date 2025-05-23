@@ -2,10 +2,12 @@
 
 <div align="center">
   <p align="center">
-    🤗 <a href="https://huggingface.co/rohilrao">Hugging Face</a> • 
-    💻 <a href="https://rohilrao.github.io">Blog</a>
-  </p>
-  <p align="center">
+    <a href="https://huggingface.co/rohilrao">
+      <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface" alt="Hugging Face">
+    </a>
+    <a href="https://rohilrao.github.io">
+      <img src="https://img.shields.io/badge/💻_Blog-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Blog">
+    </a>
     <a href="https://www.linkedin.com/in/rohilrao">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
