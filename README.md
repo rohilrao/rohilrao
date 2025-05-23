@@ -1,24 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rohil+Rao.;Full-stack+developer+%7C+Open+Source+Enthusiast.;Building+robust+web+and+mobile+apps.)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Rohil!</h1>
 
+<div align="center">
+  <p align="center">
+    🤗 <a href="https://huggingface.co/rohilrao">Hugging Face</a> • 
+    💻 <a href="https://rohilrao.github.io">Blog</a>
+  </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rohilrao">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:s6roraoo@uni-bonn.de">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;At+GAIA+Lab;Working+on+cool+things;Open+source+🤗)](https://git.io/typing-svg)
+  
 ## About Me
 
 Hi, I'm an M.Sc. Computer Science graduate from the University of Bonn with hands-on experience in advanced AI-driven projects, machine learning, and data science.
 
 ## Featured Projects
 
-### [Video Frame Prediction using Semi-Supervised UNet Generative Model](https://github.com/rohilrao/VideoFramePrediction)
-Advanced computer vision project implementing generative models for temporal prediction.
-
-### [Brain MRI Segmentation with Unsupervised Domain Adaptation](https://github.com/rohilrao/BrainMRI_Segmentation_UDA)
-Improving domain shift in brain MRI segmentation using unsupervised adversarial training.
-
-### [Explainable Fake News Detection](https://github.com/rohilrao/IR-NLP-Fake-News)
-NLP project combining information retrieval with explainable AI for fake news detection.
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohilrao)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s6roraoo@uni-bonn.de)
+#### [Video Frame Prediction using Semi-Supervised UNet Generative Model](https://github.com/rohilrao/VideoFramePrediction)
+#### [Brain MRI Segmentation with Unsupervised Domain Adaptation](https://github.com/rohilrao/BrainMRI_Segmentation_UDA)
+#### [Explainable Fake News Detection](https://github.com/rohilrao/IR-NLP-Fake-News)
 
 ---
 
