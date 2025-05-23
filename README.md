@@ -26,6 +26,3 @@
 #### [Brain MRI Segmentation with Unsupervised Domain Adaptation](https://github.com/rohilrao/BrainMRI_Segmentation_UDA)
 #### [Explainable Fake News Detection](https://github.com/rohilrao/IR-NLP-Fake-News)
 
----
-
-💡 *Always excited to collaborate on innovative AI projects and discuss the latest developments in machine learning!*
