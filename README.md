@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;At+GAIA+Lab;Working+on+cool+things;Open+source+🤗)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;At+the+GAIA+Lab;Working+on+cool+things;Open+source+🤗)](https://git.io/typing-svg)
   
 ## Featured Projects
 
