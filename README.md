@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Rohil!</h1>
-
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Rohil+👋;Computer+Scientist+and+AI+Safety+Researcher;Let's+build+something+amazing!&font=Fira%20Code&size=35&duration=3000&pause=1000&color=0077B5&center=true&width=935&height=50)](https://git.io/typing-svg)
+
   <p align="center">
     <a href="https://huggingface.co/rohilrao">
       <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface" alt="Hugging Face">
@@ -16,13 +17,9 @@
     </a>
   </p>
 </div>
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;At+the+GAIA+Lab;Working+on+cool+things;Open+source+🤗)](https://git.io/typing-svg)
-  
+
 ## Featured Projects
-
 #### [Video Frame Prediction using Semi-Supervised UNet Generative Model](https://github.com/rohilrao/VideoFramePrediction)
 #### [Brain MRI Segmentation with Unsupervised Domain Adaptation](https://github.com/rohilrao/BrainMRI_Segmentation_UDA)
 #### [Explainable Fake News Detection](https://github.com/rohilrao/IR-NLP-Fake-News)
-
