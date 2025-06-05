@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Rohil+👋;Computer+Scientist;Interested+in+AI+Safety+Research;Always+up+to+build+something!:)&font=Fira%20Code&size=35&duration=3000&pause=1000&color=0077B5&center=true&width=935&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Rohil+👋;Computer+Scientist;Interested+in+AI+Safety+Research;Always+up+to+build+something!&font=Fira%20Code&size=35&duration=3000&pause=1000&color=0077B5&center=true&width=935&height=50)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://huggingface.co/rohilrao">
